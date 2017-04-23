@@ -1,0 +1,6 @@
+﻿  main.c
+d:\最近学习\c练习\项目\win32project1\win32project1\main.c(27): warning C4133: “=”: 从“char [4]”到“LPCWSTR”的类型不兼容
+d:\最近学习\c练习\项目\win32project1\win32project1\main.c(56): warning C4133: “函数”: 从“char [4]”到“LPCWSTR”的类型不兼容
+d:\最近学习\c练习\项目\win32project1\win32project1\main.c(56): warning C4133: “函数”: 从“char [11]”到“LPCWSTR”的类型不兼容
+  Win32Project1.vcxproj -> D:\最近学习\c练习\项目\Win32Project1\x64\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> D:\最近学习\c练习\项目\Win32Project1\x64\Debug\Win32Project1.pdb (Partial PDB)

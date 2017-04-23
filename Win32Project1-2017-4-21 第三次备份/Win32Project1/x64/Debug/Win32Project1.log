@@ -1,0 +1,10 @@
+﻿  main.c
+d:\最近学习\c练习\项目\win32project1\win32project1\main.c(29): warning C4133: “=”: 从“char [4]”到“LPCWSTR”的类型不兼容
+d:\最近学习\c练习\项目\win32project1\win32project1\main.c(58): warning C4133: “函数”: 从“char [4]”到“LPCWSTR”的类型不兼容
+d:\最近学习\c练习\项目\win32project1\win32project1\main.c(58): warning C4133: “函数”: 从“char [11]”到“LPCWSTR”的类型不兼容
+  elsMsg.c
+d:\最近学习\c练习\项目\win32project1\win32project1\elsmsg.c(103): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+d:\最近学习\c练习\项目\win32project1\win32project1\elsmsg.c(104): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+  正在生成代码...
+  Win32Project1.vcxproj -> D:\最近学习\c练习\项目\Win32Project1\x64\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> D:\最近学习\c练习\项目\Win32Project1\x64\Debug\Win32Project1.pdb (Partial PDB)
