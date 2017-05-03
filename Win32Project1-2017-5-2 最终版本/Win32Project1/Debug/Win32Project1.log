@@ -1,0 +1,8 @@
+﻿  main.c
+  elsMsg.c
+d:\最近学习\c练习\项目\win32project1\win32project1\elsmsg.c(22): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+d:\最近学习\c练习\项目\win32project1\win32project1\elsmsg.c(149): warning C4098: “onTimer”:“void”函数返回值
+  正在生成代码...
+  Win32Project1.vcxproj -> D:\最近学习\c练习\项目\Win32Project1\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> D:\最近学习\c练习\项目\Win32Project1\Debug\Win32Project1.pdb (Partial PDB)
